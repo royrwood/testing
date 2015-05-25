@@ -18,3 +18,5 @@ Branch 04.
 Master, Master, Master!
 
 More branch_04.
+
+Master.
