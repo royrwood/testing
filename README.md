@@ -6,3 +6,7 @@ This is a new line.
 Another new line.
 
 Added this line in Master.
+
+Added some stuff in branch_03.
+
+Another branch_03 edit.
